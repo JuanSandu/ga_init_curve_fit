@@ -1,0 +1,9 @@
+{
+  "max_generations": 10,
+  "inc_ranges": [1.0, 1.0, 0.1],
+  "dec_rate": 0.05,
+  "max_parent_pop": 15,
+  "max_children_pop": 45,
+  "prev_parents": 3,
+  "method": "curvefit"
+}
